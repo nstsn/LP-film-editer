@@ -1,0 +1,19 @@
+# Media
+assets/LP_movie.mp4
+
+# Documentation / Handover
+handover.md
+
+# Environment variables
+.env
+
+# Dependencies
+node_modules/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
